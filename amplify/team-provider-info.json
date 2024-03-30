@@ -20,6 +20,9 @@
           "appId": "d2kif10zqhggc7",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "v2awsminoritybusines18eaa3c4": {}
       }
     }
   }
