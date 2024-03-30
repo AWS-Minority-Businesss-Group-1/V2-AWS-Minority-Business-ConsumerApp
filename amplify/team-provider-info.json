@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "v2awsminoritybusines": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2kif10zqhggc7",
+          "type": "cicd"
+        }
       }
     }
   }
