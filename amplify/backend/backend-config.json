@@ -69,5 +69,12 @@
         }
       ]
     }
+  },
+  "storage": {
+    "ConsumerAppS3": {
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "S3"
+    }
   }
 }
