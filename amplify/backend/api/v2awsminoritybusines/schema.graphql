@@ -9,3 +9,7 @@ type Account @model {
   accountType: AccountType!
   email: String!
 }
+enum AccountType {
+  CUSTOMER
+  OWNER
+}
