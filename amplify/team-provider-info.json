@@ -23,6 +23,9 @@
       },
       "auth": {
         "v2awsminoritybusines18eaa3c4": {}
+      },
+      "storage": {
+        "ConsumerAppS3": {}
       }
     }
   }
